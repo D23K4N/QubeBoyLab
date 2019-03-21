@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (LAB1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+c:\zpwm1\zpwm\lab05\source\main.cpp(110): warning C4552: „!”: Wynik wyrażenia nie jest używany
+c:\zpwm1\zpwm\lab05\source\main.cpp(111): warning C4552: „!”: Wynik wyrażenia nie jest używany
+c:\zpwm1\zpwm\lab05\source\main.cpp(182): warning C4305: "+=": obcięcie z "double" do "float"
+c:\zpwm1\zpwm\lab05\source\main.cpp(199): warning C4305: "argument": obcięcie z "double" do "float"
+  make.visual.2017.vcxproj -> C:\ZPWM1\ZPwM\Lab05\make.visual\x64\Debug\LAB5.exe
